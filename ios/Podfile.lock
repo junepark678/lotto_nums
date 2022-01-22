@@ -1,0 +1,65 @@
+PODS:
+  - barcode_scan (0.0.1):
+    - Flutter
+    - MTBBarcodeScanner
+  - Flutter (1.0.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - geolocator (6.2.0):
+    - Flutter
+  - MTBBarcodeScanner (5.0.11)
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - webview_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - barcode_scan (from `.symlinks/plugins/barcode_scan/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - geolocator (from `.symlinks/plugins/geolocator/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - MTBBarcodeScanner
+
+EXTERNAL SOURCES:
+  barcode_scan:
+    :path: ".symlinks/plugins/barcode_scan/ios"
+  Flutter:
+    :path: Flutter
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  geolocator:
+    :path: ".symlinks/plugins/geolocator/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  barcode_scan: 33f586d02270046fc6559135038b34b5754eaa4f
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_local_notifications: 9e4738ce2471c5af910d961a6b7eadcf57c50186
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  geolocator: f5e3de65e241caba7ce3e8a618803387bda73384
+  MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
+  path_provider_ios: 7d7ce634493af4477d156294792024ec3485acd5
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  webview_flutter: d2b4d6c66968ad042ad94cbb791f5b72b4678a96
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
